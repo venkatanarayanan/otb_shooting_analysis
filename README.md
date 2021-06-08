@@ -10,5 +10,14 @@ Note: This project could be expanded more and that is something I will be doing 
 
 Some of the visuals created for this analysis below:
 
-#### Open Play shots from outside the box since 2014 ####
+### Open Play shots from outside the box since 2014 ###
+
 ![otb_plot_2014](plots/otb_plot.png)
+
+### % of Shots from each zone outside the box ###
+
+![zone_plot](plots/zone_plot.png)
+
+### From which zone do some of the best shooters shoot from? ###
+
+![popular_players_zones](plots/custom_zone_plot.png)

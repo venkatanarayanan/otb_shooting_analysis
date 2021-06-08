@@ -11,4 +11,4 @@ Note: This project could be expanded more and that is something I will be doing 
 Some of the visuals created for this analysis below:
 
 #### Open Play shots from outside the box since 2014 ####
-![otb_plot_2014.png](plots/otb_plot.png)
+![otb_plot_2014](plots/otb_plot.png)
